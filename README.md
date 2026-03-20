@@ -11,6 +11,10 @@ project builds a rule-based detection system that automatically flags
 suspicious behavior, scores customers by risk level, and surfaces 
 actionable alerts for compliance investigators.
 
+## Project Architecture
+<img width="1367" height="796" alt="image" src="https://github.com/user-attachments/assets/bfc710e5-7b39-44fa-acdb-eb5b081391a3" />
+
+
 ## Dataset
 - Source: Credit Card Transactions Fraud Detection (Kaggle)
 - 1,296,675 transactions across 983 customers
